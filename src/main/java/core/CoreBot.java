@@ -16,7 +16,7 @@ import static constants.ConstantsForAnswersMainMenuBot.*;
 @Component
 public class CoreBot extends TelegramLongPollingBot {
     private static final String botUserName = "ForCustomerTest_bot";
-    private static final String botToken = "5115437638:AAF3vCCyB-B38b7CsqfKum8b4PGm9AB9h1g";
+    private static final String botToken = "Hello_World";
 
 
     private static SendMessageMain sendMain = new SendMessageMain();
